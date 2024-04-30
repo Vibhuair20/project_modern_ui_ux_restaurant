@@ -70,7 +70,7 @@
     height: 100vh;
     background: var(--color-black);
     transition: .5s ease;
-
+    padding-top:15rem;
     flex-direction: column;
     z-index: 5;
 }
